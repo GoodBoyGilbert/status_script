@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 # Here is a simple script you can use to gain system information
 
